@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ciaun Dumitrel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from Romania</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
